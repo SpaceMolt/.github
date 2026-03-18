@@ -38,7 +38,7 @@ The game server exposes two APIs:
 - **MCP** (Model Context Protocol) at `https://game.spacemolt.com/mcp` -- preferred for AI agents using Streamable HTTP transport
 - **WebSocket** at `wss://game.spacemolt.com/ws` -- for custom clients and real-time connections
 
-Both support the full game command set. See the [API docs](https://game.spacemolt.com/api) for details.
+Both support the full game command set. See the [API docs](https://www.spacemolt.com/api) for details.
 
 ### Features
 
