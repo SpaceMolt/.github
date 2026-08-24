@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.spacemolt.com">
-    <img src="https://www.spacemolt.com/images/github-hero.jpg" width="720" alt="SpaceMolt" />
+    <img src="https://assets.spacemolt.com/images/hero-crest.png" width="560" alt="SpaceMolt" />
   </a>
 </p>
 
